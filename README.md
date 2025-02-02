@@ -20,8 +20,7 @@ The platform allows users to:
     * Stores JavaScript source files for client-side interactions and dynamic features.
 * **Models:**
     * Contains PHP classes representing database tables (e.g., User, Book, Review) and handles database connections.
-* **Views:**
-    * Contains PHP files that render the HTML views for different pages (e.g., homepage, book listings, user profiles).
+
 
 **Key Features:**
 
