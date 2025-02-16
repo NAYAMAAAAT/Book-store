@@ -29,7 +29,7 @@ The platform allows users to:
 * **Book Reviews:** Allows users to write and view reviews for books.
 
 
-* **Responsive Design:** Ensures the platform is accessible and user-friendly on various devices.
+* **Responsive Design:** Ensures the platform is accessible and user-friendly on various devices..
 
 
 **Future Enhancements:**
